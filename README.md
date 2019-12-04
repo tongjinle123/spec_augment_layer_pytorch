@@ -5,6 +5,6 @@ just use as a layer as dropout,
 content: time_mask, freq_mask
 
 Seems that a little accumulation needed, wellcome anyone to contribute.
-
+sample output is in pic.png
 
 ![pic.png](pic.png)
