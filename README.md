@@ -7,4 +7,4 @@ content: time_mask, freq_mask
 Seems that a little accumulation needed, wellcome anyone to contribute.
 
 
-![avatar](pic.png)
+![avatar](.pic.png)
